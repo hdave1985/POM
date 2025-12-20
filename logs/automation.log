@@ -1,0 +1,81 @@
+2025-12-19 18:58:09 INFO  TC_001_Login:38 - From test suite
+2025-12-19 18:58:13 INFO  TC_001_Login:46 - github
+2025-12-19 18:58:14 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 18:59:47 INFO  TC_001_Login:38 - From test suite
+2025-12-19 18:59:48 INFO  TC_001_Login:46 - github
+2025-12-19 18:59:48 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 19:00:27 INFO  TC_001_Login:38 - From test suite
+2025-12-19 19:00:28 INFO  TC_001_Login:46 - github
+2025-12-19 19:00:28 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 19:01:06 INFO  TC_001_Login:38 - From test suite
+2025-12-19 19:01:09 INFO  TC_001_Login:46 - github
+2025-12-19 19:01:09 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 19:01:09 INFO  TC_001_Login:22 - ADded username
+2025-12-19 19:01:11 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 19:01:15 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 19:01:17 INFO  TC_001_Login:30 - Success
+2025-12-19 19:01:17 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 19:01:17 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 19:05:04 INFO  TC_001_Login:38 - From test suite
+2025-12-19 19:05:05 INFO  TC_001_Login:46 - github
+2025-12-19 19:05:05 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 19:05:05 INFO  TC_001_Login:22 - ADded username
+2025-12-19 19:05:07 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 19:05:11 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 19:05:13 INFO  TC_001_Login:30 - Success
+2025-12-19 19:05:13 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 19:05:13 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 19:05:19 INFO  TC_001_Login:38 - From test suite
+2025-12-19 19:05:19 INFO  TC_001_Login:46 - github
+2025-12-19 19:05:19 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 19:05:19 INFO  TC_001_Login:22 - ADded username
+2025-12-19 19:05:21 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 19:05:25 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 19:05:27 INFO  TC_001_Login:30 - Success
+2025-12-19 19:05:27 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 19:05:27 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 19:07:40 INFO  TC_001_Login:38 - From test suite
+2025-12-19 19:07:42 INFO  TC_001_Login:46 - github
+2025-12-19 19:07:42 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 19:07:42 INFO  TC_001_Login:22 - ADded username
+2025-12-19 19:07:44 INFO  TC_001_Login:38 - From test suite
+2025-12-19 19:07:44 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 19:07:46 INFO  TC_001_Login:46 - github
+2025-12-19 19:07:46 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 19:07:46 INFO  TC_001_Login:22 - ADded username
+2025-12-19 19:07:48 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 19:07:50 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 19:07:52 INFO  TC_001_Login:30 - Success
+2025-12-19 19:07:52 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 19:07:52 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 19:07:53 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 19:07:55 INFO  TC_001_Login:30 - Success
+2025-12-19 19:07:55 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 19:07:55 INFO  TC_001_Login:52 - From test tear down
+2025-12-19 19:19:12 INFO  TC_001_Login:48 - From test suite
+2025-12-19 19:19:12 INFO  TC_001_Login:57 - github
+2025-12-19 19:19:12 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 19:19:13 INFO  TC_001_Login:22 - ADded username
+2025-12-19 19:19:16 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 19:19:17 INFO  TC_001_Login:48 - From test suite
+2025-12-19 19:19:19 INFO  TC_001_Login:57 - github
+2025-12-19 19:19:19 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 19:19:19 INFO  TC_001_Login:22 - ADded username
+2025-12-19 19:19:20 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 19:19:21 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 19:19:22 INFO  TC_001_Login:30 - Success
+2025-12-19 19:19:22 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 19:19:22 INFO  TC_001_Login:63 - From test tear down
+2025-12-19 19:19:25 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 19:19:27 INFO  TC_001_Login:30 - Success
+2025-12-19 19:19:27 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 19:19:27 INFO  TC_001_Login:63 - From test tear down
+2025-12-19 20:31:58 INFO  TC_001_Login:49 - From test suite
+2025-12-19 20:31:59 INFO  TC_001_Login:58 - github
+2025-12-19 20:31:59 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-19 20:31:59 INFO  TC_001_Login:22 - ADded username
+2025-12-19 20:32:01 INFO  TC_001_Login:25 - ADded Password
+2025-12-19 20:32:06 INFO  TC_001_Login:28 - Clicked on password
+2025-12-19 20:32:08 INFO  TC_001_Login:30 - Success
+2025-12-19 20:32:08 INFO  TC_001_Login:31 - Ending of TC_001_Login
+2025-12-19 20:32:08 INFO  TC_001_Login:64 - From test tear down

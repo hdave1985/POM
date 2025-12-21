@@ -9,10 +9,28 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Test Suite</th></tr>
-<tr><td><a href="#t0">Chrome Browser Test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">8,323</td><td>Master</td><td></td></tr>
+<tr><td><a href="#t0">Chrome Browser Test</a></td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">34,976</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Test Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Chrome Browser Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">testCases.TC_003_login</td><td><a href="#m0">performLogin</a></td><td rowspan="1">1766236737782</td><td rowspan="1">3802</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Test Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Chrome Browser Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">testCases.TC_004_loginDDT_1</td><td><a href="#m0">performDDTLogin</a></td><td rowspan="2">1766311337302</td><td rowspan="2">3241</td></tr><tr class="failedeven"><td><a href="#m1">performDDTLogin</a></td></tr><tr><th colspan="4">Chrome Browser Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">testCases.TC_004_loginDDT_1</td><td><a href="#m2">performDDTLogin</a></td><td rowspan="3">1766311340555</td><td rowspan="3">2510</td></tr><tr class="passedeven"><td><a href="#m3">performDDTLogin</a></td></tr><tr class="passedeven"><td><a href="#m4">performDDTLogin</a></td></tr></tbody>
 </table>
-<h2>Chrome Browser Test</h2><h3 id="m0">testCases.TC_003_login#performLogin</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Chrome Browser Test</h2><h3 id="m0">testCases.TC_004_loginDDT_1#performDDTLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>ce.hardikdave@gmail.com</td><td>Encrypt@1827</td><td>Invalid</td></tr><tr><th colspan="3">Exception</th></tr><tr><td colspan="3"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at testCases.TC_004_loginDDT_1.performDDTLogin(TC_004_loginDDT_1.java:66)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+... Removed 19 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">testCases.TC_004_loginDDT_1#performDDTLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>laksh@yahoo.com</td><td>Lakshmi</td><td>Invalid</td></tr><tr><th colspan="3">Exception</th></tr><tr><td colspan="3"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at testCases.TC_004_loginDDT_1.performDDTLogin(TC_004_loginDDT_1.java:66)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+... Removed 19 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">testCases.TC_004_loginDDT_1#performDDTLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>lakshmi@yahoo.com</td><td>Laxmi</td><td>Valid</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">testCases.TC_004_loginDDT_1#performDDTLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>ce.hardikrdave@gmail.com</td><td>Encrypt@1827</td><td>Invalid</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">testCases.TC_004_loginDDT_1#performDDTLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>laks@yahoo.com</td><td>xyz</td><td>Invalid</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

@@ -1,14 +1,19 @@
 package testBase;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 import java.util.Properties;
 import java.util.Random;
 import java.util.logging.Logger;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -72,6 +77,21 @@ public class baseClass
 	{
 		String generatedString=RandomStringUtils.randomNumeric(10);
 		return generatedString;
+	}
+
+	public String captureScreen(String tname) 
+	{
+		String timestamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+		
+		TakesScreenshot takescreenshot = (TakesScreenshot) driver;
+		File source = takescreenshot.getScreenshotAs(OutputType.FILE);
+		
+		String targetfilepath = System.getProperty("user.dir")+"\\screenshots\\" + tname + "_"+ timestamp;
+		File targetFile = new File(targetfilepath);
+		
+		source.renameTo(targetFile);
+		
+		return targetfilepath;
 	}
 	
 

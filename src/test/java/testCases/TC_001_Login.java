@@ -9,7 +9,7 @@ import testBase.baseClass;
 public class TC_001_Login extends baseClass 
 {
 	
-	@Test
+	@Test(groups = {"Sanity","Master"})
 	public void performLogin() throws InterruptedException
 	{	
 		try 

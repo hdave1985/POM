@@ -1,81 +1,1629 @@
-2025-12-19 18:58:09 INFO  TC_001_Login:38 - From test suite
-2025-12-19 18:58:13 INFO  TC_001_Login:46 - github
-2025-12-19 18:58:14 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 18:59:47 INFO  TC_001_Login:38 - From test suite
-2025-12-19 18:59:48 INFO  TC_001_Login:46 - github
-2025-12-19 18:59:48 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 19:00:27 INFO  TC_001_Login:38 - From test suite
-2025-12-19 19:00:28 INFO  TC_001_Login:46 - github
-2025-12-19 19:00:28 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 19:01:06 INFO  TC_001_Login:38 - From test suite
-2025-12-19 19:01:09 INFO  TC_001_Login:46 - github
-2025-12-19 19:01:09 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 19:01:09 INFO  TC_001_Login:22 - ADded username
-2025-12-19 19:01:11 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 19:01:15 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 19:01:17 INFO  TC_001_Login:30 - Success
-2025-12-19 19:01:17 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 19:01:17 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 19:05:04 INFO  TC_001_Login:38 - From test suite
-2025-12-19 19:05:05 INFO  TC_001_Login:46 - github
-2025-12-19 19:05:05 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 19:05:05 INFO  TC_001_Login:22 - ADded username
-2025-12-19 19:05:07 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 19:05:11 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 19:05:13 INFO  TC_001_Login:30 - Success
-2025-12-19 19:05:13 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 19:05:13 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 19:05:19 INFO  TC_001_Login:38 - From test suite
-2025-12-19 19:05:19 INFO  TC_001_Login:46 - github
-2025-12-19 19:05:19 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 19:05:19 INFO  TC_001_Login:22 - ADded username
-2025-12-19 19:05:21 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 19:05:25 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 19:05:27 INFO  TC_001_Login:30 - Success
-2025-12-19 19:05:27 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 19:05:27 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 19:07:40 INFO  TC_001_Login:38 - From test suite
-2025-12-19 19:07:42 INFO  TC_001_Login:46 - github
-2025-12-19 19:07:42 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 19:07:42 INFO  TC_001_Login:22 - ADded username
-2025-12-19 19:07:44 INFO  TC_001_Login:38 - From test suite
-2025-12-19 19:07:44 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 19:07:46 INFO  TC_001_Login:46 - github
-2025-12-19 19:07:46 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 19:07:46 INFO  TC_001_Login:22 - ADded username
-2025-12-19 19:07:48 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 19:07:50 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 19:07:52 INFO  TC_001_Login:30 - Success
-2025-12-19 19:07:52 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 19:07:52 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 19:07:53 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 19:07:55 INFO  TC_001_Login:30 - Success
-2025-12-19 19:07:55 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 19:07:55 INFO  TC_001_Login:52 - From test tear down
-2025-12-19 19:19:12 INFO  TC_001_Login:48 - From test suite
-2025-12-19 19:19:12 INFO  TC_001_Login:57 - github
-2025-12-19 19:19:12 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 19:19:13 INFO  TC_001_Login:22 - ADded username
-2025-12-19 19:19:16 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 19:19:17 INFO  TC_001_Login:48 - From test suite
-2025-12-19 19:19:19 INFO  TC_001_Login:57 - github
-2025-12-19 19:19:19 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 19:19:19 INFO  TC_001_Login:22 - ADded username
-2025-12-19 19:19:20 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 19:19:21 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 19:19:22 INFO  TC_001_Login:30 - Success
-2025-12-19 19:19:22 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 19:19:22 INFO  TC_001_Login:63 - From test tear down
-2025-12-19 19:19:25 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 19:19:27 INFO  TC_001_Login:30 - Success
-2025-12-19 19:19:27 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 19:19:27 INFO  TC_001_Login:63 - From test tear down
-2025-12-19 20:31:58 INFO  TC_001_Login:49 - From test suite
-2025-12-19 20:31:59 INFO  TC_001_Login:58 - github
-2025-12-19 20:31:59 INFO  TC_001_Login:18 - STarting of TC_001_Login
-2025-12-19 20:31:59 INFO  TC_001_Login:22 - ADded username
-2025-12-19 20:32:01 INFO  TC_001_Login:25 - ADded Password
-2025-12-19 20:32:06 INFO  TC_001_Login:28 - Clicked on password
-2025-12-19 20:32:08 INFO  TC_001_Login:30 - Success
-2025-12-19 20:32:08 INFO  TC_001_Login:31 - Ending of TC_001_Login
-2025-12-19 20:32:08 INFO  TC_001_Login:64 - From test tear down
+2025-12-20 14:01:22 INFO  TC_001_DDT_Login:50 - From test suite
+2025-12-20 14:01:24 INFO  TC_001_DDT_Login:59 - github
+2025-12-20 14:01:28 INFO  TC_001_DDT_Login:65 - From test tear down
+2025-12-20 14:03:24 INFO  TC_001_DDT_Login:50 - From test suite
+2025-12-20 14:03:25 INFO  TC_001_DDT_Login:59 - github
+2025-12-20 14:03:28 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:03:28 INFO  TC_001_DDT_Login:31 - Added email
+2025-12-20 14:03:28 INFO  TC_001_DDT_Login:33 - Added password
+2025-12-20 14:03:29 INFO  TC_001_DDT_Login:35 - Clicked login
+2025-12-20 14:04:00 INFO  TC_001_DDT_Login:39 - Clicked on circle 
+2025-12-20 14:04:07 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: BrowsingContext does no longer exist
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7bedcab1-1802-4a90-b1b9-2505fb7b39f4, findElement {value=//*[contains(text(), 'Sign out')], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25932, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 7bedcab1-1802-4a90-b1b9-2505fb7b39f4
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:04:07 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7bedcab1-1802-4a90-b1b9-2505fb7b39f4, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25932, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 7bedcab1-1802-4a90-b1b9-2505fb7b39f4
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:04:07 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7bedcab1-1802-4a90-b1b9-2505fb7b39f4, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25932, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 7bedcab1-1802-4a90-b1b9-2505fb7b39f4
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:04:07 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7bedcab1-1802-4a90-b1b9-2505fb7b39f4, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25932, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 7bedcab1-1802-4a90-b1b9-2505fb7b39f4
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:04:07 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7bedcab1-1802-4a90-b1b9-2505fb7b39f4, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25932, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 7bedcab1-1802-4a90-b1b9-2505fb7b39f4
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:04:07 INFO  TC_001_DDT_Login:65 - From test tear down
+2025-12-20 14:04:39 INFO  TC_001_DDT_Login:50 - From test suite
+2025-12-20 14:04:41 INFO  TC_001_DDT_Login:59 - github
+2025-12-20 14:04:45 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:04:46 INFO  TC_001_DDT_Login:31 - Added email
+2025-12-20 14:04:46 INFO  TC_001_DDT_Login:33 - Added password
+2025-12-20 14:04:47 INFO  TC_001_DDT_Login:35 - Clicked login
+2025-12-20 14:05:02 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: BrowsingContext does no longer exist
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e2e4b61-239f-4295-b18b-c993ef890f29, findElement {using=xpath, value=//img[@class='avatar circle']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19560, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e2e4b61-239f-4295-b18b-c993ef890f29
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:02 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e2e4b61-239f-4295-b18b-c993ef890f29, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19560, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e2e4b61-239f-4295-b18b-c993ef890f29
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:02 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e2e4b61-239f-4295-b18b-c993ef890f29, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19560, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e2e4b61-239f-4295-b18b-c993ef890f29
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:02 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e2e4b61-239f-4295-b18b-c993ef890f29, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19560, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e2e4b61-239f-4295-b18b-c993ef890f29
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:02 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e2e4b61-239f-4295-b18b-c993ef890f29, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19560, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e2e4b61-239f-4295-b18b-c993ef890f29
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:02 INFO  TC_001_DDT_Login:65 - From test tear down
+2025-12-20 14:05:36 INFO  TC_001_DDT_Login:50 - From test suite
+2025-12-20 14:05:41 INFO  TC_001_DDT_Login:59 - github
+2025-12-20 14:05:44 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:44 INFO  TC_001_DDT_Login:31 - Added email
+2025-12-20 14:05:44 INFO  TC_001_DDT_Login:33 - Added password
+2025-12-20 14:05:46 INFO  TC_001_DDT_Login:35 - Clicked login
+2025-12-20 14:05:51 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: BrowsingContext does no longer exist
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57, findElement {value=//img[@class='avatar circle'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17824, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57
+2025-12-20 14:05:51 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:51 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:52 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17824, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:52 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17824, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:52 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17824, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:05:52 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17824, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0a8cc8ce-6e50-4c1b-b9f0-b4924ef9eb57
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:05:52 INFO  TC_001_DDT_Login:65 - From test tear down
+2025-12-20 14:06:32 INFO  TC_001_DDT_Login:50 - From test suite
+2025-12-20 14:06:33 INFO  TC_001_DDT_Login:59 - github
+2025-12-20 14:06:36 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:06:37 INFO  TC_001_DDT_Login:31 - Added email
+2025-12-20 14:06:38 INFO  TC_001_DDT_Login:33 - Added password
+2025-12-20 14:06:41 INFO  TC_001_DDT_Login:35 - Clicked login
+2025-12-20 14:07:25 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: BrowsingContext does no longer exist
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6, findElement {using=xpath, value=//img[@class='avatar circle']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21124, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:07:25 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21124, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:07:25 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21124, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:07:25 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21124, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:24 - Starting of TC_001_DDT_Login
+2025-12-20 14:07:25 ERROR TC_001_DDT_Login:47 - Test Failedorg.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21124, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: fdd5d995-7f7f-455c-9ab2-7e6ea89b1da6
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:53 - Ending of TC_001_DDT_Login
+2025-12-20 14:07:25 INFO  TC_001_DDT_Login:65 - From test tear down
+2025-12-20 15:10:33 INFO  TC_003_login:50 - From test suite
+2025-12-20 15:10:34 INFO  TC_003_login:59 - github
+2025-12-20 15:10:34 INFO  TC_003_login:16 - Starting of TC 
+2025-12-20 15:10:35 INFO  TC_003_login:22 - Clicked on my account
+2025-12-20 15:10:35 INFO  TC_003_login:24 - Clicked on my Login
+2025-12-20 15:12:10 INFO  TC_003_login:50 - From test suite
+2025-12-20 15:12:11 INFO  TC_003_login:59 - github
+2025-12-20 15:12:11 INFO  TC_003_login:16 - Starting of TC 
+2025-12-20 15:12:12 INFO  TC_003_login:24 - Clicked on my account
+2025-12-20 15:12:12 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-20 15:13:35 ERROR TC_003_login:36 - From catch blocked, failed..java.util.concurrent.TimeoutException
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0e09b1b8-bb4d-43de-928d-648201ac33ae, findElement {using=name, value=login}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 5256, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0e09b1b8-bb4d-43de-928d-648201ac33ae
+2025-12-20 15:13:36 INFO  TC_003_login:39 - Starting of TC 
+2025-12-20 15:13:36 INFO  TC_003_login:65 - From test tear down
+2025-12-20 15:14:02 ERROR TC_003_login:38 - From catch blocked, failed..BrowsingContext does no longer exist
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [1a240d29-7d54-493f-b204-bb6aaffbbb60, findElement {value=login, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 29800, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 1a240d29-7d54-493f-b204-bb6aaffbbb60
+2025-12-20 15:14:02 INFO  TC_003_login:41 - Starting of TC 
+2025-12-20 15:14:02 INFO  TC_003_login:65 - From test tear down
+2025-12-20 15:17:50 INFO  TC_003_login:50 - From test suite
+2025-12-20 15:17:54 INFO  TC_003_login:59 - github
+2025-12-20 15:17:54 INFO  TC_003_login:16 - Starting of TC 
+2025-12-20 15:17:54 INFO  TC_003_login:24 - Clicked on my account
+2025-12-20 15:17:54 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-20 15:17:56 INFO  TC_003_login:30 - Added email
+2025-12-20 15:17:56 INFO  TC_003_login:32 - Added password
+2025-12-20 15:17:57 INFO  TC_003_login:34 - Login button clicked
+2025-12-20 15:17:57 INFO  TC_003_login:41 - Starting of TC 
+2025-12-20 15:17:57 INFO  TC_003_login:65 - From test tear down
+2025-12-20 15:47:04 INFO  TC_003_login:50 - From test suite
+2025-12-20 15:47:06 INFO  TC_003_login:59 - github
+2025-12-20 15:47:06 INFO  TC_003_login:16 - Starting of TC 
+2025-12-20 15:47:06 INFO  TC_003_login:24 - Clicked on my account
+2025-12-20 15:47:06 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-20 15:47:08 INFO  TC_003_login:30 - Added email
+2025-12-20 15:47:08 INFO  TC_003_login:32 - Added password
+2025-12-20 15:47:10 INFO  TC_003_login:34 - Login button clicked
+2025-12-20 15:47:10 INFO  TC_003_login:41 - Starting of TC 
+2025-12-20 15:47:10 INFO  TC_003_login:65 - From test tear down
+2025-12-20 15:53:21 INFO  TC_004_loginDDT_1:50 - From test suite
+2025-12-20 15:53:23 INFO  TC_004_loginDDT_1:59 - github
+2025-12-20 15:53:23 INFO  TC_004_loginDDT_1:65 - From test tear down
+2025-12-20 15:57:33 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 15:57:35 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 15:57:38 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 15:57:39 INFO  TC_004_loginDDT_1:26 - Clicked on my account
+2025-12-20 15:57:39 INFO  TC_004_loginDDT_1:28 - Clicked on my Login
+2025-12-20 15:57:41 INFO  TC_004_loginDDT_1:32 - Added email
+2025-12-20 15:57:41 INFO  TC_004_loginDDT_1:34 - Added password
+2025-12-20 15:57:42 INFO  TC_004_loginDDT_1:36 - Login button clicked
+2025-12-20 15:57:42 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 15:57:42 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 15:57:42 INFO  TC_004_loginDDT_1:26 - Clicked on my account
+2025-12-20 16:01:59 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:02:01 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:02:04 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:02:05 INFO  TC_004_loginDDT_1:26 - Clicked on my account
+2025-12-20 16:02:05 INFO  TC_004_loginDDT_1:28 - Clicked on my Login
+2025-12-20 16:02:07 INFO  TC_004_loginDDT_1:32 - Added email
+2025-12-20 16:02:07 INFO  TC_004_loginDDT_1:34 - Added password
+2025-12-20 16:02:09 INFO  TC_004_loginDDT_1:36 - Login button clicked
+2025-12-20 16:02:09 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:02:09 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:02:10 INFO  TC_004_loginDDT_1:26 - Clicked on my account
+2025-12-20 16:04:49 ERROR TC_004_loginDDT_1:42 - Test failed... BrowsingContext does no longer exist
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [bc3cce05-8b90-4b24-98ae-371adc7769d3, findElement {value=//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21028, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: bc3cce05-8b90-4b24-98ae-371adc7769d3
+2025-12-20 16:04:49 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:04:49 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:04:49 ERROR TC_004_loginDDT_1:42 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [bc3cce05-8b90-4b24-98ae-371adc7769d3, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21028, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: bc3cce05-8b90-4b24-98ae-371adc7769d3
+2025-12-20 16:04:49 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:04:49 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:04:49 ERROR TC_004_loginDDT_1:42 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [bc3cce05-8b90-4b24-98ae-371adc7769d3, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21028, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: bc3cce05-8b90-4b24-98ae-371adc7769d3
+2025-12-20 16:04:50 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:04:50 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:04:50 ERROR TC_004_loginDDT_1:42 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [bc3cce05-8b90-4b24-98ae-371adc7769d3, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21028, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: bc3cce05-8b90-4b24-98ae-371adc7769d3
+2025-12-20 16:04:50 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:04:50 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:05:18 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:05:22 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:05:27 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:05:27 INFO  TC_004_loginDDT_1:26 - Clicked on my account
+2025-12-20 16:05:27 INFO  TC_004_loginDDT_1:28 - Clicked on my Login
+2025-12-20 16:05:30 INFO  TC_004_loginDDT_1:32 - Added email
+2025-12-20 16:05:30 INFO  TC_004_loginDDT_1:34 - Added password
+2025-12-20 16:05:32 INFO  TC_004_loginDDT_1:36 - Login button clicked
+2025-12-20 16:05:32 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:05:32 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:05:32 INFO  TC_004_loginDDT_1:26 - Clicked on my account
+2025-12-20 16:05:32 INFO  TC_004_loginDDT_1:28 - Clicked on my Login
+2025-12-20 16:05:34 INFO  TC_004_loginDDT_1:32 - Added email
+2025-12-20 16:05:34 INFO  TC_004_loginDDT_1:34 - Added password
+2025-12-20 16:05:35 INFO  TC_004_loginDDT_1:36 - Login button clicked
+2025-12-20 16:05:35 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:05:35 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:05:35 INFO  TC_004_loginDDT_1:26 - Clicked on my account
+2025-12-20 16:05:49 ERROR TC_004_loginDDT_1:42 - Test failed... BrowsingContext does no longer exist
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [3539d97a-e4f0-4c1e-9912-e68f41725958, findElement {using=xpath, value=//a[normalize-space()='Login']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15516, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 3539d97a-e4f0-4c1e-9912-e68f41725958
+2025-12-20 16:05:49 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:05:49 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:05:49 ERROR TC_004_loginDDT_1:42 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [3539d97a-e4f0-4c1e-9912-e68f41725958, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15516, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 3539d97a-e4f0-4c1e-9912-e68f41725958
+2025-12-20 16:05:49 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:05:49 INFO  TC_004_loginDDT_1:17 - Starting of TC_004_loginDDT_1
+2025-12-20 16:05:49 ERROR TC_004_loginDDT_1:42 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [3539d97a-e4f0-4c1e-9912-e68f41725958, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15516, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 3539d97a-e4f0-4c1e-9912-e68f41725958
+2025-12-20 16:05:49 INFO  TC_004_loginDDT_1:45 - Ending of TC_004_loginDDT_1
+2025-12-20 16:05:49 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:11:46 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:11:47 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:11:56 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:11:57 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:11:57 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:11:59 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:11:59 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:12:00 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:15:01 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:16:33 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:16:35 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:16:37 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:16:38 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:16:39 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:16:41 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:16:41 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:16:42 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:17:00 ERROR TC_004_loginDDT_1:76 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c10a02d7-448f-4e9d-955f-453d3c44b269, findElement {using=name, value=email}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22704, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: c10a02d7-448f-4e9d-955f-453d3c44b269
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:17:00 ERROR TC_004_loginDDT_1:76 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c10a02d7-448f-4e9d-955f-453d3c44b269, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22704, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: c10a02d7-448f-4e9d-955f-453d3c44b269
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:17:00 ERROR TC_004_loginDDT_1:76 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c10a02d7-448f-4e9d-955f-453d3c44b269, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22704, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: c10a02d7-448f-4e9d-955f-453d3c44b269
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:17:00 ERROR TC_004_loginDDT_1:76 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c10a02d7-448f-4e9d-955f-453d3c44b269, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22704, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: c10a02d7-448f-4e9d-955f-453d3c44b269
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:17:00 ERROR TC_004_loginDDT_1:76 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c10a02d7-448f-4e9d-955f-453d3c44b269, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22704, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: c10a02d7-448f-4e9d-955f-453d3c44b269
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:00 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:17:03 ERROR TC_004_loginDDT_1:74 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [83d0f41f-87f8-441a-8501-698ffb34386b, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28136, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 83d0f41f-87f8-441a-8501-698ffb34386b
+2025-12-20 16:17:03 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:03 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:17:03 ERROR TC_004_loginDDT_1:74 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [83d0f41f-87f8-441a-8501-698ffb34386b, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28136, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 83d0f41f-87f8-441a-8501-698ffb34386b
+2025-12-20 16:17:03 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:03 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:17:03 ERROR TC_004_loginDDT_1:74 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [83d0f41f-87f8-441a-8501-698ffb34386b, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28136, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 83d0f41f-87f8-441a-8501-698ffb34386b
+2025-12-20 16:17:03 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:03 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:17:04 ERROR TC_004_loginDDT_1:74 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [83d0f41f-87f8-441a-8501-698ffb34386b, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28136, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 83d0f41f-87f8-441a-8501-698ffb34386b
+2025-12-20 16:17:04 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 16:17:04 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:18:23 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:18:25 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:18:27 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:18:27 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:18:28 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:18:30 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:18:30 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:18:31 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:18:31 INFO  TC_004_loginDDT_1:48 - From success
+2025-12-20 16:18:31 INFO  TC_004_loginDDT_1:81 - Ending of TC_004_loginDDT_1
+2025-12-20 16:18:31 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:18:31 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:18:31 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:18:34 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:18:34 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:18:34 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:18:35 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:18:35 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:18:35 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:18:37 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:18:37 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:18:38 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:18:38 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:18:39 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:18:39 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:18:41 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:18:41 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:18:41 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:20:21 INFO  TC_004_loginDDT_1:81 - Ending of TC_004_loginDDT_1
+2025-12-20 16:20:21 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:20:22 ERROR TC_004_loginDDT_1:78 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [842d9e3f-4c3c-41f2-9d30-4b8c89ba73d0, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17392, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 842d9e3f-4c3c-41f2-9d30-4b8c89ba73d0
+2025-12-20 16:20:22 INFO  TC_004_loginDDT_1:81 - Ending of TC_004_loginDDT_1
+2025-12-20 16:20:22 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:28:09 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:28:12 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:28:13 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:28:13 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:28:14 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:28:16 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:28:16 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:28:17 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:28:17 INFO  TC_004_loginDDT_1:48 - From success
+2025-12-20 16:28:17 INFO  TC_004_loginDDT_1:81 - Ending of TC_004_loginDDT_1
+2025-12-20 16:28:17 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:28:18 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:28:18 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:28:20 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:28:20 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:28:21 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:28:21 INFO  TC_004_loginDDT_1:48 - From success
+2025-12-20 16:28:21 INFO  TC_004_loginDDT_1:81 - Ending of TC_004_loginDDT_1
+2025-12-20 16:28:21 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:28:21 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:28:21 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:28:23 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:28:23 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:28:24 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:28:25 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:28:25 INFO  TC_004_loginDDT_1:28 - Clicked on my account
+2025-12-20 16:28:25 INFO  TC_004_loginDDT_1:30 - Clicked on my Login
+2025-12-20 16:28:27 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:28:27 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:28:28 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:35:31 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:35:32 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:35:35 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:35:36 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 16:35:36 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 16:35:38 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:35:38 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:35:39 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:35:39 INFO  TC_004_loginDDT_1:48 - From success
+2025-12-20 16:35:40 INFO  TC_004_loginDDT_1:84 - Ending of TC_004_loginDDT_1
+2025-12-20 16:35:40 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:35:40 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 16:35:40 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 16:35:42 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:35:42 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:35:43 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:35:43 INFO  TC_004_loginDDT_1:48 - From success
+2025-12-20 16:35:44 INFO  TC_004_loginDDT_1:84 - Ending of TC_004_loginDDT_1
+2025-12-20 16:35:44 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:35:44 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 16:35:44 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 16:35:46 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:35:46 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:35:47 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:35:47 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:35:47 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 16:35:48 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 16:35:50 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:35:50 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:35:50 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:38:44 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:38:47 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:38:49 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:38:49 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 16:38:49 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 16:38:51 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:38:51 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:38:52 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:38:52 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:38:52 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:38:52 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:38:53 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 16:38:53 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 16:38:55 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:38:55 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:38:56 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:38:56 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:38:56 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:38:56 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:38:56 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 16:38:56 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 16:38:58 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:38:58 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:38:59 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:38:59 INFO  TC_004_loginDDT_1:65 - From Invalid if
+2025-12-20 16:38:59 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:39:00 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 16:39:00 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 16:39:02 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:39:02 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:39:05 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:42:05 INFO  TC_004_loginDDT_1:71 - From Invalid else
+2025-12-20 16:42:05 INFO  TC_004_loginDDT_1:72 - From invalidlaks@yahoo.comxyz
+2025-12-20 16:42:11 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:42:12 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:42:15 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:42:15 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 16:42:15 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 16:42:17 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:42:17 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:42:19 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:42:19 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:42:19 INFO  TC_004_loginDDT_1:92 - Ending of TC_004_loginDDT_1
+2025-12-20 16:42:19 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:42:19 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 16:42:19 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 16:42:21 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:42:21 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:42:22 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:42:22 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:42:22 INFO  TC_004_loginDDT_1:92 - Ending of TC_004_loginDDT_1
+2025-12-20 16:42:22 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:42:23 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 16:42:23 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 16:42:25 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:42:25 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:42:26 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:42:26 INFO  TC_004_loginDDT_1:63 - From Invalid
+2025-12-20 16:44:36 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:44:39 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:44:41 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:44:41 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 16:44:42 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 16:44:44 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:44:44 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:44:45 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:44:45 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:44:45 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:44:45 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:44:45 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 16:44:45 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 16:44:47 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:44:47 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:44:48 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:44:48 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:44:49 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:44:49 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:44:49 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 16:44:49 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 16:44:51 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:44:51 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:44:52 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:44:52 INFO  TC_004_loginDDT_1:63 - From Invalid
+2025-12-20 16:44:52 INFO  TC_004_loginDDT_1:68 - From Invalid if
+2025-12-20 16:44:52 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:44:52 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 16:44:53 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 16:44:55 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:44:55 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:44:56 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:45:05 ERROR TC_004_loginDDT_1:83 - Test failed... java.util.concurrent.TimeoutException
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [09f5b767-69e0-4052-8a60-db6e2e9c86ff, findElement {value=email, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12716, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 09f5b767-69e0-4052-8a60-db6e2e9c86ff
+2025-12-20 16:45:05 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:45:05 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:45:16 INFO  TC_004_loginDDT_1:63 - From Invalid
+2025-12-20 16:45:16 INFO  TC_004_loginDDT_1:74 - From Invalid else
+2025-12-20 16:45:16 INFO  TC_004_loginDDT_1:75 - From invalidlaks@yahoo.comxyz
+2025-12-20 16:45:16 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:45:16 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:45:16 ERROR TC_004_loginDDT_1:88 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [008b2e06-7cf5-4562-a474-925f4e37a3bd, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20900, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 008b2e06-7cf5-4562-a474-925f4e37a3bd
+2025-12-20 16:45:16 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:45:16 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:45:26 ERROR TC_004_loginDDT_1:89 - Test failed... java.util.concurrent.TimeoutException
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e0f1a8b-e51d-46f2-81fa-7ebd73cbbaf2, findElement {using=name, value=email}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 7568, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e0f1a8b-e51d-46f2-81fa-7ebd73cbbaf2
+2025-12-20 16:45:26 INFO  TC_004_loginDDT_1:92 - Ending of TC_004_loginDDT_1
+2025-12-20 16:45:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:47:01 ERROR TC_004_loginDDT_1:89 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e0f1a8b-e51d-46f2-81fa-7ebd73cbbaf2, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 7568, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e0f1a8b-e51d-46f2-81fa-7ebd73cbbaf2
+2025-12-20 16:47:01 INFO  TC_004_loginDDT_1:92 - Ending of TC_004_loginDDT_1
+2025-12-20 16:47:01 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:47:01 ERROR TC_004_loginDDT_1:89 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4e0f1a8b-e51d-46f2-81fa-7ebd73cbbaf2, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 7568, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4e0f1a8b-e51d-46f2-81fa-7ebd73cbbaf2
+2025-12-20 16:47:01 INFO  TC_004_loginDDT_1:92 - Ending of TC_004_loginDDT_1
+2025-12-20 16:47:01 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:47:02 ERROR TC_004_loginDDT_1:83 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [09f5b767-69e0-4052-8a60-db6e2e9c86ff, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12716, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 09f5b767-69e0-4052-8a60-db6e2e9c86ff
+2025-12-20 16:47:02 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:47:02 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:47:34 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:47:36 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:47:39 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:47:39 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 16:47:40 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 16:47:43 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:47:43 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:47:44 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:47:44 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:47:45 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:47:45 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:47:45 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 16:47:45 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 16:47:47 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:47:47 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:47:48 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:47:48 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:47:48 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:47:48 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:47:49 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 16:47:49 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 16:47:51 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:47:51 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:47:52 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:47:52 INFO  TC_004_loginDDT_1:63 - From Invalid
+2025-12-20 16:47:52 INFO  TC_004_loginDDT_1:68 - From Invalid if
+2025-12-20 16:47:52 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:47:52 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 16:47:52 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 16:47:54 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:47:54 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:47:55 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:48:14 INFO  TC_004_loginDDT_1:63 - From Invalid
+2025-12-20 16:48:14 INFO  TC_004_loginDDT_1:74 - From Invalid else
+2025-12-20 16:48:14 INFO  TC_004_loginDDT_1:75 - From invalidlaks@yahoo.comxyz
+2025-12-20 16:48:14 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:48:14 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:48:14 ERROR TC_004_loginDDT_1:88 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [dc223f74-7ddf-434f-8d8a-df7f0fc19374, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 27668, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: dc223f74-7ddf-434f-8d8a-df7f0fc19374
+2025-12-20 16:48:14 INFO  TC_004_loginDDT_1:91 - Ending of TC_004_loginDDT_1
+2025-12-20 16:48:14 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:56:25 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:56:29 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:56:31 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:56:32 ERROR TC_004_loginDDT_1:83 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [54406300-708b-420d-9ebb-4ae030b96bad, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25036, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 54406300-708b-420d-9ebb-4ae030b96bad
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:56:32 ERROR TC_004_loginDDT_1:83 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [54406300-708b-420d-9ebb-4ae030b96bad, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25036, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 54406300-708b-420d-9ebb-4ae030b96bad
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:56:32 ERROR TC_004_loginDDT_1:83 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [54406300-708b-420d-9ebb-4ae030b96bad, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25036, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 54406300-708b-420d-9ebb-4ae030b96bad
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:56:32 ERROR TC_004_loginDDT_1:83 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [54406300-708b-420d-9ebb-4ae030b96bad, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25036, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 54406300-708b-420d-9ebb-4ae030b96bad
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:56:32 ERROR TC_004_loginDDT_1:83 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [54406300-708b-420d-9ebb-4ae030b96bad, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25036, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 54406300-708b-420d-9ebb-4ae030b96bad
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:56:32 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:56:52 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:56:53 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:56:55 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:56:55 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 16:56:56 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 16:56:58 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:56:58 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:56:59 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:56:59 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:56:59 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:56:59 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:56:59 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 16:56:59 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 16:57:01 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:57:01 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:57:02 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:57:02 INFO  TC_004_loginDDT_1:48 - From valid success
+2025-12-20 16:57:03 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:57:03 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:57:03 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 16:57:03 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 16:57:05 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:57:05 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:57:06 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:57:06 INFO  TC_004_loginDDT_1:63 - From Invalid
+2025-12-20 16:57:06 INFO  TC_004_loginDDT_1:67 - From Invalid if
+2025-12-20 16:57:06 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:57:06 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 16:57:07 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 16:57:09 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:57:09 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:57:09 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:57:33 INFO  TC_004_loginDDT_1:63 - From Invalid
+2025-12-20 16:57:33 INFO  TC_004_loginDDT_1:73 - From Invalid else
+2025-12-20 16:57:33 INFO  TC_004_loginDDT_1:74 - From invalidlaks@yahoo.comxyz
+2025-12-20 16:57:33 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:57:33 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:57:33 ERROR TC_004_loginDDT_1:83 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [5cf1c553-29e1-4e91-a1f4-d52d868b67e9, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28852, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 5cf1c553-29e1-4e91-a1f4-d52d868b67e9
+2025-12-20 16:57:33 INFO  TC_004_loginDDT_1:86 - Ending of TC_004_loginDDT_1
+2025-12-20 16:57:33 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 16:59:35 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 16:59:36 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 16:59:38 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:59:38 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 16:59:38 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 16:59:38 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:59:38 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:59:39 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:59:40 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 16:59:40 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:59:40 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 16:59:40 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 16:59:40 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:59:40 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:59:41 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:59:41 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 16:59:41 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:59:41 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 16:59:41 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 16:59:41 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:59:42 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:59:42 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 16:59:43 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 16:59:43 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 16:59:43 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 16:59:43 INFO  TC_004_loginDDT_1:34 - Added email
+2025-12-20 16:59:43 INFO  TC_004_loginDDT_1:36 - Added password
+2025-12-20 16:59:44 INFO  TC_004_loginDDT_1:38 - Login button clicked
+2025-12-20 17:00:01 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 17:00:01 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:00:01 ERROR TC_004_loginDDT_1:74 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [43cedda7-4429-41c7-8857-9790cbe38190, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15840, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 43cedda7-4429-41c7-8857-9790cbe38190
+2025-12-20 17:00:01 INFO  TC_004_loginDDT_1:77 - Ending of TC_004_loginDDT_1
+2025-12-20 17:00:01 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:02:26 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:02:30 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:02:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:02:33 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:02:34 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:02:34 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:02:34 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:02:35 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:02:35 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:02:35 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:02:35 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 17:02:35 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 17:02:35 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:02:35 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:02:36 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:02:36 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:02:36 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:02:37 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 17:02:37 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 17:02:37 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:02:37 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:02:38 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:02:38 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:02:38 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 17:02:38 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 17:02:38 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:02:38 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:02:39 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:02:57 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:02:57 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:02:57 ERROR TC_004_loginDDT_1:76 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [ef736296-72bb-4ab7-9ee5-7a054fd030dc, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23788, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: ef736296-72bb-4ab7-9ee5-7a054fd030dc
+2025-12-20 17:02:57 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:02:57 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:10:23 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:10:25 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:10:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:10:27 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:10:27 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:10:27 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:10:27 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:10:28 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:10:28 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:10:28 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:10:29 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 17:10:29 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 17:10:29 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:10:29 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:10:30 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:10:30 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:10:30 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:10:30 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 17:10:30 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 17:10:30 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:10:31 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:10:31 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:10:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:10:32 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 17:10:32 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 17:10:32 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:10:32 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:10:33 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:10:47 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:10:47 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:10:47 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:10:47 ERROR TC_004_loginDDT_1:76 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [aef8c4dd-22d7-4bd5-b02c-52d313a1b718, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1568, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: aef8c4dd-22d7-4bd5-b02c-52d313a1b718
+2025-12-20 17:10:47 INFO  TC_004_loginDDT_1:79 - Ending of TC_004_loginDDT_1
+2025-12-20 17:10:47 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:11:31 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:11:33 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:11:35 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:11:35 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:11:35 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:11:35 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:11:35 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:11:36 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:11:37 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:11:37 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:11:37 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 17:11:37 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 17:11:37 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:11:37 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:11:38 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:11:38 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:11:38 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:11:39 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 17:11:39 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 17:11:39 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:11:39 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:11:40 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:11:40 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:11:40 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 17:11:40 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 17:11:40 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:11:40 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:11:42 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:12:08 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:12:11 ERROR TC_004_loginDDT_1:79 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [b76f8899-d328-4eae-acd5-e777b3a2f235, findElement {using=name, value=email}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 13492, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b76f8899-d328-4eae-acd5-e777b3a2f235
+2025-12-20 17:12:11 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:12:11 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:12:11 ERROR TC_004_loginDDT_1:79 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [b76f8899-d328-4eae-acd5-e777b3a2f235, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 13492, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b76f8899-d328-4eae-acd5-e777b3a2f235
+2025-12-20 17:12:11 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:12:11 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:12:19 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:12:20 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:12:21 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:12:21 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:12:22 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:12:22 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:12:22 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:12:22 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:12:23 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:12:23 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:12:23 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 17:12:23 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 17:12:23 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:12:23 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:12:24 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:12:24 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:12:24 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:12:24 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 17:12:25 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 17:12:25 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:12:25 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:12:25 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:12:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:12:26 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 17:12:26 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 17:12:26 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:12:26 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:12:27 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:12:59 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:13:05 ERROR TC_004_loginDDT_1:79 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [944bf207-2364-41ee-8f50-ed0837a9ffe4, findElement {value=email, using=name}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28592, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 944bf207-2364-41ee-8f50-ed0837a9ffe4
+2025-12-20 17:13:05 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:13:05 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:13:05 ERROR TC_004_loginDDT_1:79 - Test failed... Tried to run command without establishing a connection
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [944bf207-2364-41ee-8f50-ed0837a9ffe4, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 28592, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 944bf207-2364-41ee-8f50-ed0837a9ffe4
+2025-12-20 17:13:05 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:13:05 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:15:21 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:15:27 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:15:29 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:15:29 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:15:30 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:15:30 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:15:30 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:15:31 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:15:32 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:15:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:15:32 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 17:15:32 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 17:15:32 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:15:32 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:15:38 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:15:42 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:15:42 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:15:42 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 17:15:43 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 17:15:43 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:15:43 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:15:48 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:15:51 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:15:51 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 17:15:52 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 17:15:52 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:15:52 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:15:54 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:16:14 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:16:14 ERROR TC_004_loginDDT_1:79 - Test failed... Browsing context has been discarded
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [e0b69f6e-7218-4cac-bdd7-94675a988387, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 29836, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: e0b69f6e-7218-4cac-bdd7-94675a988387
+2025-12-20 17:16:14 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:16:14 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:16:14 ERROR TC_004_loginDDT_1:79 - Test failed... Failed to decode response from marionette
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [e0b69f6e-7218-4cac-bdd7-94675a988387, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 145.0.1, moz:accessibilityChecks: false, moz:buildID: 20251118022223, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 29836, moz:profile: C:\Users\cehar\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: e0b69f6e-7218-4cac-bdd7-94675a988387
+2025-12-20 17:16:14 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:16:14 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:34:21 INFO  TC_003_login:48 - From test suite
+2025-12-20 17:34:22 INFO  TC_003_login:57 - tutorialsninja.com Demo
+2025-12-20 17:34:22 INFO  TC_003_login:16 - Starting of TC 
+2025-12-20 17:34:22 INFO  TC_003_login:24 - Clicked on my account
+2025-12-20 17:34:22 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-20 17:34:24 INFO  TC_003_login:30 - Added email
+2025-12-20 17:34:25 INFO  TC_003_login:32 - Added password
+2025-12-20 17:34:25 INFO  TC_003_login:34 - Login button clicked
+2025-12-20 17:34:25 INFO  TC_003_login:41 - Starting of TC 
+2025-12-20 17:34:25 INFO  TC_003_login:63 - From test tear down
+2025-12-20 17:34:51 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:34:53 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:34:55 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:34:56 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:34:57 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:35:00 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:35:00 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:35:01 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:35:03 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:35:03 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:35:03 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 17:35:04 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 17:35:04 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:35:04 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:35:04 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:35:09 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:35:09 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:35:09 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 17:35:09 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 17:35:09 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:35:09 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:35:11 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:35:11 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:35:11 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 17:35:12 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 17:35:12 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:35:12 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:35:13 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:35:32 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:35:32 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:35:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:35:32 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6fb3544ee38170cceb41671898d9ee6d, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54607}, goog:processID: 20688, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54607/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6fb3544ee38170cceb41671898d9ee6d
+2025-12-20 17:35:32 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:35:32 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:40:21 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:40:22 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:40:24 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:40:24 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:40:25 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:40:25 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:40:25 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:40:25 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:40:27 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:40:27 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:40:27 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlakshmi@yahoo.com
+2025-12-20 17:40:27 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLaxmi
+2025-12-20 17:40:27 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:40:27 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:40:27 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:40:28 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:40:28 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:40:29 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaksh@yahoo.com
+2025-12-20 17:40:29 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginLakshmi
+2025-12-20 17:40:29 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:40:29 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:40:30 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:40:30 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:40:30 INFO  TC_004_loginDDT_1:28 - Clicked on my accountlaks@yahoo.com
+2025-12-20 17:40:31 INFO  TC_004_loginDDT_1:30 - Clicked on my Loginxyz
+2025-12-20 17:40:31 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:40:31 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:40:31 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:41:15 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:41:15 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c8fd156acc706f3aa475885e54787fd, refresh []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64616}, goog:processID: 13812, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64616/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c8fd156acc706f3aa475885e54787fd
+2025-12-20 17:41:16 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:41:16 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:41:16 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c8fd156acc706f3aa475885e54787fd, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64616}, goog:processID: 13812, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64616/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c8fd156acc706f3aa475885e54787fd
+2025-12-20 17:41:16 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:41:16 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:42:06 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:42:07 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:42:10 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:42:10 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:42:10 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@18271
+2025-12-20 17:42:11 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:42:11 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:42:11 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:42:32 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da7a1563c42fbe0e698df205dee4941, refresh []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49754}, goog:processID: 180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49754/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da7a1563c42fbe0e698df205dee4941
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:42:32 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da7a1563c42fbe0e698df205dee4941, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49754}, goog:processID: 180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49754/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da7a1563c42fbe0e698df205dee4941
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:42:32 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da7a1563c42fbe0e698df205dee4941, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49754}, goog:processID: 180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49754/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da7a1563c42fbe0e698df205dee4941
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:42:32 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da7a1563c42fbe0e698df205dee4941, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49754}, goog:processID: 180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49754/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da7a1563c42fbe0e698df205dee4941
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:42:32 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6da7a1563c42fbe0e698df205dee4941, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49754}, goog:processID: 180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49754/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6da7a1563c42fbe0e698df205dee4941
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:42:32 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:43:20 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:43:21 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:43:24 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:43:24 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:43:24 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@18271
+2025-12-20 17:43:25 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:43:25 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:43:25 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:68 - from invalid else
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:43:50 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a7940993cc377363f8fda227a1aea2e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64694}, goog:processID: 30236, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64694/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a7940993cc377363f8fda227a1aea2e
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:43:50 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a7940993cc377363f8fda227a1aea2e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64694}, goog:processID: 30236, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64694/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a7940993cc377363f8fda227a1aea2e
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:43:50 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a7940993cc377363f8fda227a1aea2e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64694}, goog:processID: 30236, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64694/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a7940993cc377363f8fda227a1aea2e
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:43:50 ERROR TC_004_loginDDT_1:77 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a7940993cc377363f8fda227a1aea2e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64694}, goog:processID: 30236, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64694/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a7940993cc377363f8fda227a1aea2e
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:80 - Ending of TC_004_loginDDT_1
+2025-12-20 17:43:50 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:49:24 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:49:25 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:49:30 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:49:30 INFO  TC_004_loginDDT_1:28 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:49:31 INFO  TC_004_loginDDT_1:30 - Clicked on my LoginEncrypt@18271
+2025-12-20 17:49:31 INFO  TC_004_loginDDT_1:36 - Added email
+2025-12-20 17:49:31 INFO  TC_004_loginDDT_1:38 - Added password
+2025-12-20 17:49:32 INFO  TC_004_loginDDT_1:40 - Login button clicked
+2025-12-20 17:53:01 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:53:01 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:53:04 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:53:06 INFO  TC_004_loginDDT_1:30 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:53:06 INFO  TC_004_loginDDT_1:32 - Clicked on my LoginEncrypt@18271
+2025-12-20 17:53:06 INFO  TC_004_loginDDT_1:38 - Added email
+2025-12-20 17:53:06 INFO  TC_004_loginDDT_1:40 - Added password
+2025-12-20 17:53:07 INFO  TC_004_loginDDT_1:42 - Login button clicked
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:70 - from invalid else
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:53:43 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ade5b0729411dc9f92e9a0debc9ba2b, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52124}, goog:processID: 30664, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52124/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ade5b0729411dc9f92e9a0debc9ba2b
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:53:43 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ade5b0729411dc9f92e9a0debc9ba2b, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52124}, goog:processID: 30664, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52124/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ade5b0729411dc9f92e9a0debc9ba2b
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:53:43 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ade5b0729411dc9f92e9a0debc9ba2b, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52124}, goog:processID: 30664, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52124/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ade5b0729411dc9f92e9a0debc9ba2b
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:53:43 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ade5b0729411dc9f92e9a0debc9ba2b, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52124}, goog:processID: 30664, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52124/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ade5b0729411dc9f92e9a0debc9ba2b
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:53:43 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:55:21 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:55:21 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:55:24 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:55:25 INFO  TC_004_loginDDT_1:30 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:55:25 INFO  TC_004_loginDDT_1:32 - Clicked on my LoginEncrypt@18271
+2025-12-20 17:55:26 INFO  TC_004_loginDDT_1:38 - Added email
+2025-12-20 17:55:26 INFO  TC_004_loginDDT_1:40 - Added password
+2025-12-20 17:55:27 INFO  TC_004_loginDDT_1:42 - Login button clicked
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:70 - from invalid else
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:55:46 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f4734d159dd94a99a526fd5a7ee8fd3, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, goog:processID: 19136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62390/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f4734d159dd94a99a526fd5a7ee8fd3
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:55:46 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f4734d159dd94a99a526fd5a7ee8fd3, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, goog:processID: 19136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62390/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f4734d159dd94a99a526fd5a7ee8fd3
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:55:46 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f4734d159dd94a99a526fd5a7ee8fd3, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, goog:processID: 19136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62390/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f4734d159dd94a99a526fd5a7ee8fd3
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:55:46 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f4734d159dd94a99a526fd5a7ee8fd3, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, goog:processID: 19136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62390/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f4734d159dd94a99a526fd5a7ee8fd3
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:55:46 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:58:02 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:58:02 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:58:05 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:58:07 INFO  TC_004_loginDDT_1:30 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:58:07 INFO  TC_004_loginDDT_1:32 - Clicked on my LoginEncrypt@18271
+2025-12-20 17:58:08 INFO  TC_004_loginDDT_1:38 - Added email
+2025-12-20 17:58:08 INFO  TC_004_loginDDT_1:40 - Added password
+2025-12-20 17:58:09 INFO  TC_004_loginDDT_1:42 - Login button clicked
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:70 - ***from invalid else****
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:58:39 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33887394646f64fa0e3d19f048a5058a, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50551}, goog:processID: 19760, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50551/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33887394646f64fa0e3d19f048a5058a
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:58:39 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33887394646f64fa0e3d19f048a5058a, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50551}, goog:processID: 19760, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50551/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33887394646f64fa0e3d19f048a5058a
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:58:39 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33887394646f64fa0e3d19f048a5058a, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50551}, goog:processID: 19760, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50551/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33887394646f64fa0e3d19f048a5058a
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:58:39 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33887394646f64fa0e3d19f048a5058a, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50551}, goog:processID: 19760, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50551/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33887394646f64fa0e3d19f048a5058a
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:58:39 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 17:59:05 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 17:59:05 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 17:59:08 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:59:09 INFO  TC_004_loginDDT_1:30 - Clicked on my accountce.hardikdave@gmail.com
+2025-12-20 17:59:10 INFO  TC_004_loginDDT_1:32 - Clicked on my LoginEncrypt@1827
+2025-12-20 17:59:10 INFO  TC_004_loginDDT_1:38 - Added email
+2025-12-20 17:59:11 INFO  TC_004_loginDDT_1:40 - Added password
+2025-12-20 17:59:11 INFO  TC_004_loginDDT_1:42 - Login button clicked
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:70 - ***from invalid else****
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:59:53 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4c74162b6ccb4ff14de06e0d08ad476, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61489}, goog:processID: 28900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61489/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4c74162b6ccb4ff14de06e0d08ad476
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:59:53 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4c74162b6ccb4ff14de06e0d08ad476, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61489}, goog:processID: 28900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61489/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4c74162b6ccb4ff14de06e0d08ad476
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:59:53 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4c74162b6ccb4ff14de06e0d08ad476, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61489}, goog:processID: 28900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61489/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4c74162b6ccb4ff14de06e0d08ad476
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 17:59:53 ERROR TC_004_loginDDT_1:79 - Test failed... invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4c74162b6ccb4ff14de06e0d08ad476, get {url=https://tutorialsninja.com/demo/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61489}, goog:processID: 28900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61489/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4c74162b6ccb4ff14de06e0d08ad476
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 17:59:53 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 18:03:22 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 18:03:23 INFO  TC_004_loginDDT_1:57 - tutorialsninja.com Demo
+2025-12-20 18:03:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:04:26 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d080008474d8c21eaf185885e4fce28b, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58027}, goog:processID: 22880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58027/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d080008474d8c21eaf185885e4fce28b
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:04:26 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d080008474d8c21eaf185885e4fce28b, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58027}, goog:processID: 22880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58027/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d080008474d8c21eaf185885e4fce28b
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:04:26 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d080008474d8c21eaf185885e4fce28b, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58027}, goog:processID: 22880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58027/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d080008474d8c21eaf185885e4fce28b
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:04:26 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d080008474d8c21eaf185885e4fce28b, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58027}, goog:processID: 22880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58027/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d080008474d8c21eaf185885e4fce28b
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:04:26 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d080008474d8c21eaf185885e4fce28b, get [url]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58027}, goog:processID: 22880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58027/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d080008474d8c21eaf185885e4fce28b
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:04:26 INFO  TC_004_loginDDT_1:63 - From test tear down
+2025-12-20 18:45:51 INFO  TC_004_loginDDT_1:48 - From test suite
+2025-12-20 18:45:56 INFO  TC_004_loginDDT_1:54 - tutorialsninja.com Demo
+2025-12-20 18:45:59 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:46:08 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1e7cbafe5d23fe2e3102a6ebecaef09, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59449}, goog:processID: 24524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59449/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1e7cbafe5d23fe2e3102a6ebecaef09
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:46:08 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1e7cbafe5d23fe2e3102a6ebecaef09, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59449}, goog:processID: 24524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59449/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1e7cbafe5d23fe2e3102a6ebecaef09
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:46:08 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1e7cbafe5d23fe2e3102a6ebecaef09, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59449}, goog:processID: 24524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59449/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1e7cbafe5d23fe2e3102a6ebecaef09
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:46:08 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1e7cbafe5d23fe2e3102a6ebecaef09, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59449}, goog:processID: 24524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59449/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1e7cbafe5d23fe2e3102a6ebecaef09
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:19 - Starting of TC_004_loginDDT_1
+2025-12-20 18:46:08 ERROR TC_004_loginDDT_1:79 - Test failed... Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1e7cbafe5d23fe2e3102a6ebecaef09, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59449}, goog:processID: 24524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59449/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1e7cbafe5d23fe2e3102a6ebecaef09
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
+2025-12-20 18:46:08 INFO  TC_004_loginDDT_1:60 - From test tear down
+2025-12-20 18:46:09 INFO  TC_001_Login:48 - From test suite
+2025-12-20 18:46:12 INFO  TC_001_Login:54 - tutorialsninja.com Demo
+2025-12-20 18:46:12 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-20 18:46:18 ERROR TC_001_Login:36 - Test Failedorg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0fcdb181b2ebd514ee81e248aeb37fcc, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50836}, goog:processID: 9724, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50836/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0fcdb181b2ebd514ee81e248aeb37fcc
+2025-12-20 18:46:18 INFO  TC_001_Login:60 - From test tear down
+2025-12-20 18:47:30 INFO  TC_001_Login:48 - From test suite
+2025-12-20 18:47:31 INFO  TC_001_Login:54 - tutorialsninja.com Demo
+2025-12-20 18:47:31 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-20 18:48:12 ERROR TC_001_Login:36 - Test Failedorg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58630293981667d347d26cc137612d83, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\cehar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54475}, goog:processID: 13280, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54475/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58630293981667d347d26cc137612d83
+2025-12-20 18:48:12 INFO  TC_001_Login:60 - From test tear down
+2025-12-20 18:48:56 INFO  TC_003_login:48 - From test suite
+2025-12-20 18:48:57 INFO  TC_003_login:54 - tutorialsninja.com Demo
+2025-12-20 18:48:57 INFO  TC_003_login:16 - Starting of TC 
+2025-12-20 18:48:58 INFO  TC_003_login:24 - Clicked on my account
+2025-12-20 18:48:58 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-20 18:49:00 INFO  TC_003_login:30 - Added email
+2025-12-20 18:49:00 INFO  TC_003_login:32 - Added password
+2025-12-20 18:49:01 INFO  TC_003_login:34 - Login button clicked
+2025-12-20 18:49:01 INFO  TC_003_login:41 - Starting of TC 
+2025-12-20 18:49:01 INFO  TC_003_login:60 - From test tear down

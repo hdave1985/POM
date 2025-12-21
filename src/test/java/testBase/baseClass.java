@@ -22,7 +22,8 @@ public class baseClass
 	public WebDriver driver;
 	public org.apache.logging.log4j.Logger logger;
 	public Properties pro;
-	@BeforeClass
+	
+	@BeforeClass(groups= {"Sanity", "Regression", "Master", "Datadriven"})
 	@Parameters({"os","browser"})
 	public void testSetup(String os, String br) throws IOException 
 	{
@@ -34,7 +35,8 @@ public class baseClass
 		logger = LogManager.getLogger(this.getClass());
 		
 		
-		switch (br.toLowerCase()) {
+		switch (br.toLowerCase()) 
+		{
 		case "chrome": driver = new ChromeDriver(); break;
 		case "firefox": driver = new FirefoxDriver(); break;
 		case "edge": driver = new EdgeDriver(); break;
@@ -42,23 +44,17 @@ public class baseClass
 		default: logger.error("Invalid browser name"); return;
 
 		}
-		
-		
-		
-		
+			
 		logger.info("From test suite");
-		System.out.println("From Test set up");
 		
-//		driver = new FirefoxDriver();
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10000));
-//		driver.get("https://github.com/login");
 		driver.get(pro.getProperty("appurl"));
-		logger.info("github");
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15000));
+		logger.info("tutorialsninja.com Demo");
 	}
 	
-	@AfterClass
+	@AfterClass(groups= {"Sanity", "Regression", "Master", "Datadriven"})
 	public void testTeardown() 
 	{
 		logger.info("From test tear down");

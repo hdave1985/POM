@@ -1,5 +1,6 @@
 package pageObjects;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -17,13 +18,13 @@ public class loginPage extends basePage
 	
 //	Page elements 
 	
-	@FindBy(name="login")
+	@FindBy(name="email")
 	WebElement txtusername;
 	
 	@FindBy(name="password")
 	WebElement txtpassword;
 	
-	@FindBy(name="commit")
+	@FindBy(xpath="//input[@value='Login']")
 	WebElement signinbutton;
 	
 	
@@ -39,6 +40,18 @@ public class loginPage extends basePage
 	
 	public void clickLogin() {
 		signinbutton.click();
+	}
+	
+	public void clear() {
+		txtusername.sendKeys(Keys.CONTROL + "a");
+		txtusername.sendKeys(Keys.DELETE);
+		txtusername.clear();
+	}
+	
+	public void clearpassLogin() {
+		txtpassword.sendKeys(Keys.CONTROL + "a");
+		txtpassword.sendKeys(Keys.DELETE);
+		txtpassword.clear();
 	}
 	
 }

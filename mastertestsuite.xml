@@ -11,13 +11,19 @@ will run test -->
 </listeners> --> 
 
 <!-- STCM-->
- <test name="Firefox Browser Test">
+ <test name="Chrome Browser Test">
   			  
-	  <parameter name="browser" value="firefox"></parameter>
+	  <parameter name="browser" value="chrome"></parameter>
   	  <parameter name="os" value="windows"></parameter>
     
     <classes>
-         	 <class name="testCases.TC_001_Login"></class>
+         	 <!-- <class name="testCases.TC_001_Login"></class> 
+         	
+         	 <class name="testCases.TC_003_login"></class>
+         	 <class name="testCases.TC_004_loginDDT_1"></class>
+         	--> 
+         	  
+         	  <class name="testCases.TC_004_loginDDT_1"></class>
     </classes>
     
   </test> <!-- Test -->

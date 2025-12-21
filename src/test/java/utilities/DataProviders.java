@@ -4,7 +4,8 @@ import java.io.IOException;
 
 import org.testng.annotations.DataProvider;
 
-public class DataProviders {
+public class DataProviders 
+{
 
 	//DataProvider 1
 	
@@ -24,10 +25,11 @@ public class DataProviders {
 		{		
 			for(int j=0;j<totalcols;j++)  //0    i is rows j is col
 			{
+				
 				logindata[i-1][j]= xlutil.getCellData("Sheet1",i, j);  //1,0
 			}
 		}
-	return logindata;//returning two dimension array
+		return logindata;//returning two dimension array
 				
 	}
 	

@@ -13,6 +13,7 @@ public class DataProviders
 	public String [][] getData() throws IOException
 	{
 		String path=".\\testData\\Opencart_LoginData.xlsx";//taking xl file from testData
+		System.out.println("**" +path);
 		
 		ExcelUtility xlutil=new ExcelUtility(path);//creating an object for XLUtility
 		

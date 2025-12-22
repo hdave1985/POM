@@ -24,7 +24,7 @@ import org.testng.annotations.Parameters;
 
 public class baseClass
 {
-	public WebDriver driver;
+	public static WebDriver driver;
 	public org.apache.logging.log4j.Logger logger;
 	public Properties pro;
 	
@@ -93,9 +93,5 @@ public class baseClass
 		
 		return targetfilepath;
 	}
-	
-
-	
-
 	
 }

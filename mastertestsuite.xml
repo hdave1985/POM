@@ -3,12 +3,9 @@
 <!-- STCM Suite Test Class Method-->
 <suite name="Test Suite" thread-count="5" parallel="tests">
 
-<!-- THIS IS PARELLEL EXECTUION , one browser will run test and after another browser
-will run test -->
-
-<!-- <listeners>
+<listeners>
 	<listener class-name="utilities.ExtentReportManager"></listener>
-</listeners> --> 
+</listeners>
 
 <!-- STCM-->
  <test name="Chrome Browser Test">
@@ -18,12 +15,13 @@ will run test -->
     
     <classes>
          	 <!-- <class name="testCases.TC_001_Login"></class> 
-         	
-         	 <class name="testCases.TC_003_login"></class>
-         	 <class name="testCases.TC_004_loginDDT_1"></class>
-         	--> 
-         	  
+   				
          	  <class name="testCases.TC_004_loginDDT_1"></class>
+         	
+         	  
+         	 <class name="testCases.TC_004_loginDDT_1"></class> --> 
+         	 
+         	 <class name="testCases.TC_003_login"></class>
     </classes>
     
   </test> <!-- Test -->

@@ -27,9 +27,9 @@ public class TC_003_login extends baseClass
 			Thread.sleep(2000);
 			
 			lp.addUsername(pro.getProperty("email"));
-			logger.info("Added email");
+			logger.info("Added email" +pro.getProperty("email"));
 			lp.addPassword(pro.getProperty("password"));
-			logger.info("Added password");
+			logger.info("Added password" +pro.getProperty("password"));
 			lp.clickLogin();
 			logger.info("Login button clicked");
 		} 

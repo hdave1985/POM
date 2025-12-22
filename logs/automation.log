@@ -37,3 +37,42 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 Session ID: df0bff4e08408fb7a57ce0e88d17e76b
 2025-12-21 15:32:46 INFO  TC_004_loginDDT_1:82 - Ending of TC_004_loginDDT_1
 2025-12-21 15:32:46 INFO  TC_004_loginDDT_1:60 - From test tear down
+2025-12-21 16:32:26 INFO  TC_001_Login:53 - From test suite
+2025-12-21 16:32:27 INFO  TC_001_Login:59 - tutorialsninja.com Demo
+2025-12-21 16:32:27 INFO  TC_001_Login:18 - STarting of TC_001_Login
+2025-12-21 16:33:01 ERROR TC_001_Login:36 - Test Failedorg.openqa.selenium.NoSuchElementException: Unable to find element with locator By.name: email
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: driver.version: RemoteWebDriver
+2025-12-21 16:33:01 INFO  TC_001_Login:65 - From test tear down
+2025-12-21 16:34:09 INFO  TC_003_login:53 - From test suite
+2025-12-21 16:34:10 INFO  TC_003_login:59 - tutorialsninja.com Demo
+2025-12-21 16:34:10 INFO  TC_003_login:16 - Starting of TC 
+2025-12-21 16:34:10 INFO  TC_003_login:24 - Clicked on my account
+2025-12-21 16:34:11 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-21 16:34:13 INFO  TC_003_login:30 - Added email
+2025-12-21 16:34:13 INFO  TC_003_login:32 - Added password
+2025-12-21 16:34:13 INFO  TC_003_login:34 - Login button clicked
+2025-12-21 16:34:13 INFO  TC_003_login:41 - Starting of TC 
+2025-12-21 16:34:13 INFO  TC_003_login:65 - From test tear down
+2025-12-21 16:36:48 INFO  TC_003_login:53 - From test suite
+2025-12-21 16:36:49 INFO  TC_003_login:59 - tutorialsninja.com Demo
+2025-12-21 16:36:49 INFO  TC_003_login:16 - Starting of TC 
+2025-12-21 16:36:49 INFO  TC_003_login:24 - Clicked on my account
+2025-12-21 16:36:49 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-21 16:36:51 INFO  TC_003_login:30 - Added email
+2025-12-21 16:36:51 INFO  TC_003_login:32 - Added password
+2025-12-21 16:36:52 INFO  TC_003_login:34 - Login button clicked
+2025-12-21 16:36:52 INFO  TC_003_login:41 - Starting of TC 
+2025-12-21 16:36:52 INFO  TC_003_login:65 - From test tear down
+2025-12-21 16:38:01 INFO  TC_003_login:53 - From test suite
+2025-12-21 16:38:01 INFO  TC_003_login:59 - tutorialsninja.com Demo
+2025-12-21 16:38:01 INFO  TC_003_login:16 - Starting of TC 
+2025-12-21 16:38:02 INFO  TC_003_login:24 - Clicked on my account
+2025-12-21 16:38:02 INFO  TC_003_login:26 - Clicked on my Login
+2025-12-21 16:38:04 INFO  TC_003_login:30 - Added emailce.hardikdave@gmail.com
+2025-12-21 16:38:04 INFO  TC_003_login:32 - Added passwordEncrypt@18271
+2025-12-21 16:38:04 INFO  TC_003_login:34 - Login button clicked
+2025-12-21 16:38:04 INFO  TC_003_login:41 - Starting of TC 
+2025-12-21 16:38:04 INFO  TC_003_login:65 - From test tear down

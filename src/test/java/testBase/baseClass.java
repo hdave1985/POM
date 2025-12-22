@@ -39,7 +39,6 @@ public class baseClass
 		
 		logger = LogManager.getLogger(this.getClass());
 		
-		
 		switch (br.toLowerCase()) 
 		{
 		case "chrome": driver = new ChromeDriver(); break;

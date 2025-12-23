@@ -22,6 +22,7 @@
          	 <class name="testCases.TC_004_loginDDT_1"></class> --> 
          	 
          	 <class name="testCases.TC_003_login"></class>
+         	 <class name="testCases.TC_006_DemoPage"></class>
     </classes>
     
   </test> <!-- Test -->

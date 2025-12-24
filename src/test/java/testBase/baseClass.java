@@ -24,8 +24,8 @@ import org.testng.annotations.Parameters;
 
 public class baseClass
 {
-	public static WebDriver driver;
-	public org.apache.logging.log4j.Logger logger;
+	public static WebDriver driver; //Make it static as added listener
+	public org.apache.logging.log4j.Logger logger; 
 	public Properties pro;
 	
 	@BeforeClass(groups= {"Sanity", "Regression", "Master", "Datadriven"})
@@ -68,6 +68,7 @@ public class baseClass
 	
 	public String randomeString()
 	{
+		@SuppressWarnings("deprecation")
 		String generatedString=RandomStringUtils.randomAlphabetic(5);
 		return generatedString;
 	}
@@ -82,6 +83,7 @@ public class baseClass
 	{
 		String timestamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 		
+		// TakesScreenshot interface
 		TakesScreenshot takescreenshot = (TakesScreenshot) driver;
 		File source = takescreenshot.getScreenshotAs(OutputType.FILE);
 		
